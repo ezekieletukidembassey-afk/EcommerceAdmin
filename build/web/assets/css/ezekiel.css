@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jul 6, 2026, 5:22:32 PM
+    Author     : Ezekiel
+*/
+.blockchain-logo-div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 70px;
+}
+
+.blockchain-logo {
+    margin-bottom: 40px;
+}
+
+.form-container {
+    margin-top: 50px;
+}
